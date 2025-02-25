@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "Nombre": "\"Nezuko Kamado\"",
+    "Edad": "\"14\"",
+    "Foto": "\"https://m.media-amazon.com/images/I/71sWREPG yL._AC_UF1000,1000_QL80_.jpg\"",
+    "Creador": "\"Selena\"",
+    "Sexo": "\"Mujer\"",
+    "Colores": [
+        "COLOR DE FONDO",
+        "COLOR DE TEXTO",
+        "COLOR DE TITULO"
+    ],
+    "Detalles": {
+        "Tecnicas": null,
+        "Raza": null,
+        "Vivo": null
+    }
+}

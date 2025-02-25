@@ -1,0 +1,14 @@
+{
+    "id": 0,
+    "Nombre": "NOMBRE DEL PERSONAJE",
+    "Edad": 0,
+    "Foto": "FOTO DEL PERSONAJE",
+    "Creador": "NOMBRE DE USUARIO",
+    "Sexo": "HOMBRE O MUJER",
+    "Colores": ["COLOR DE FONDO", "COLOR DE TEXTO", "COLOR DE TITULO"],
+    "Detalles": {
+        "Tecnicas":["TECNICA 1","TENICA 2","TECNICA N"],
+        "Raza":"RAZA DE PERSONAJE",
+        "Vivo": true
+    }
+}
